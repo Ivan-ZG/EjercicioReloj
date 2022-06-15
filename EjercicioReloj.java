@@ -176,9 +176,6 @@ public class EjercicioReloj {
     
         r2.restaReloj(r3); //resto las horas, minutos, segundos del reloj 3
         System.out.println("horas: "+r2.Horas+" minutos: "+r2.Minutos+" segundos: "+r2.Segundos);
-
-        System.out.println("Hola weon");
-        System.out.println("Hola Manito");
     }
  }
 
